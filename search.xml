@@ -96,20 +96,16 @@
       
       <categories>
           
-          <category> default </category>
-          
-          <category> Linux项目 </category>
+          <category> Ubuntu </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> default </tag>
-            
-            <tag> Ubuntu </tag>
-            
             <tag> NFS服务器 </tag>
+            
+            <tag> Ubuntu20.04 </tag>
             
         </tags>
       
