@@ -71,14 +71,18 @@
       
       <categories>
           
-          <category> default </category>
+          <category> Centos </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> default </tag>
+            <tag> Centos </tag>
+            
+            <tag> Mysql5.7 </tag>
+            
+            <tag> Shel </tag>
             
         </tags>
       
