@@ -127,16 +127,16 @@
       
       <categories>
           
-          <category> default </category>
+          <category> Linux </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> default </tag>
-            
             <tag> Linux </tag>
+            
+            <tag> SSH </tag>
             
         </tags>
       
