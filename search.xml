@@ -179,14 +179,16 @@
       
       <categories>
           
-          <category> default </category>
+          <category> PVE </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> default </tag>
+            <tag> PVE </tag>
+            
+            <tag> PCIe </tag>
             
         </tags>
       
